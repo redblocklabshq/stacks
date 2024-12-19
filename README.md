@@ -1,6 +1,6 @@
-# Red Block Labs - Frontend Portfolio
+# Red Block Labs - Frontend Work with Stacks (STX) on Bitcoin
 
-Welcome to Red Block Labs, where we design and develop mind-blowing user experiences. As professional frontend architects and UI/UX designers, we used our skills to create user-centered designs and develop them in collaboration with various projects on Stacks.
+Welcome to Red Block Labs, where we design and develop mind-blowing user experiences. As professional frontend architects and UI/UX designers, we used our skills to create user-centered designs and develop them in collaboration with **various projects on Stacks**.
 We build high-quality applications on the Stacks blockchain platform. Our team combines strong technical skills with great design to create user-friendly decentralized apps that work seamlessly on Bitcoin.
 
 Our portfolio showcases how we've helped projects in the Stacks ecosystem reach their potential through our frontend development and strategic UX design. Each project represents our commitment to high standards of user experience.
