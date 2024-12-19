@@ -7,6 +7,8 @@ Our portfolio demonstrates our expertise in helping Stacks ecosystem projects su
 
 Zero Authority is a decentralized freelance platform connecting talent with opportunities through smart contracts. Our team led the complete frontend redesign and development for their V2 launch.
 
+Red Block Labs designed and developed Zero Authority's frontend:
+
 ### Results:
 
 - Designed and developed 25+ pages including:
@@ -61,7 +63,7 @@ BNS One is a modern interface for managing .btc domains on the Bitcoin Name Syst
 
 BNS Foundation is a community-driven platform for the Bitcoin Name System ecosystem. We designed and built a modern, engaging landing page that showcases the foundation's mission and activities while providing an intuitive interface for community interaction.
 
-**Red Block Labs** designed and developed BNS Foundation's frontend:
+**Red Block Labs** designed and developed [bns.foundation](https://bns.foundation)'s frontend:
 
 ### Results
 
@@ -84,9 +86,9 @@ BNS Foundation is a community-driven platform for the Bitcoin Name System ecosys
 
 ![DocT Portfolio](DocT.png)
 
-[DocT](https://x.com/DocT___) is a renowned pediatrician and artist whose groundbreaking "They Are Here" collection explores themes of human endurance and memory through neo-expressionist works. The collection was featured at the White Night of the Galleries [CryptoArt V4.0] in Craiova, Romania and includes the historic first human brain inscription on Bitcoin.
+[DocT](https://x.com/DocT___) is a pediatrician and artist whose groundbreaking "They Are Here" collection explores themes of human endurance and memory through neo-expressionist works. The collection was featured at the White Night of the Galleries [CryptoArt V4.0] in Craiova, Romania and includes the historic first human brain inscription on Bitcoin.
 
-**Red Block Labs** designed and developed the collection's landing page:
+**Red Block Labs** designed and developed [the collection](https://doct-vite.vercel.app)'s landing page:
 
 ### Results
 
